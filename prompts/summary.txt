@@ -1,0 +1,21 @@
+You are summarizing a collection of personal notes into a coherent narrative.
+
+Retrieved notes:
+{retrieved_notes}
+
+User query: {query}
+
+Please create a comprehensive summary that:
+1. Condenses the key information from the notes
+2. Creates a coherent narrative flow
+3. Highlights the most important points
+4. Preserves context and relationships between ideas
+5. Makes the information easily digestible
+
+IMPORTANT INSTRUCTIONS:
+- Do NOT reference note numbers (like "Note 1", "Note 5", etc.) in your response
+- When mentioning dates, use only human-readable format (e.g., "May 2022", "December 2023") - do NOT include raw timestamp numbers
+- Write naturally as if summarizing a collection of notes without numeric identifiers
+
+Provide a clear, well-organized summary.
+

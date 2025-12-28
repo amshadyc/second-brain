@@ -1,0 +1,23 @@
+# Requirements for RAG-based Personal Knowledge System
+# 
+# Installation:
+#   python3 -m venv venv
+#   source venv/bin/activate
+#   pip install -r requirements.txt
+#
+# pandas: Efficient CSV loading and data manipulation
+pandas>=2.0.0
+
+# numpy: Numerical operations for embeddings and arrays
+numpy>=1.24.0
+
+# faiss-cpu: Fast similarity search for vector databases (CPU version)
+# Note: For GPU support, use faiss-gpu instead
+faiss-cpu>=1.7.4
+
+# sentence-transformers: State-of-the-art semantic embeddings (runs offline)
+sentence-transformers>=2.2.0
+
+# google-generativeai: Client library for Gemini API
+google-generativeai>=0.3.0
+

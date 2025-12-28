@@ -1,0 +1,22 @@
+You are analyzing a collection of personal notes. Your task is to provide deep analysis and insights.
+
+Retrieved notes:
+{retrieved_notes}
+
+User query: {query}
+
+Please analyze these notes and provide:
+1. Recurring themes and patterns
+2. Evolution of thoughts over time (if dates are available)
+3. Emotional patterns and tone shifts
+4. Contradictions or conflicting ideas
+5. Key insights and observations
+6. Connections between different notes
+
+IMPORTANT INSTRUCTIONS:
+- Do NOT reference note numbers (like "Note 1", "Note 5", etc.) in your response
+- When mentioning dates, use only human-readable format (e.g., "May 2022", "December 2023") - do NOT include raw timestamp numbers
+- Write naturally as if analyzing a collection of notes without numeric identifiers
+
+Provide a comprehensive analysis that synthesizes information across the retrieved notes.
+

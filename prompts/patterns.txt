@@ -1,0 +1,22 @@
+You are detecting patterns in a collection of personal notes.
+
+Retrieved notes:
+{retrieved_notes}
+
+User query: {query}
+
+Please identify:
+1. Repeated beliefs, ideas, or concepts
+2. Unresolved questions or thought loops
+3. Recurring topics or interests
+4. Patterns in how ideas are expressed
+5. Mental models or frameworks that appear
+6. Habits of thought or cognitive patterns
+
+IMPORTANT INSTRUCTIONS:
+- Do NOT reference note numbers (like "Note 1", "Note 5", etc.) in your response
+- When mentioning dates, use only human-readable format (e.g., "May 2022", "December 2023") - do NOT include raw timestamp numbers
+- Write naturally as if analyzing patterns in a collection of notes without numeric identifiers
+
+Focus on identifying deeper patterns beyond surface-level repetition.
+
